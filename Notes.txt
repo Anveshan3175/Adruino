@@ -1,3 +1,5 @@
-In the Adruino IDE, to debug program, you can add output statements. The output statements can be seen in Serial Monitor, which opens upon clicking the top-rightmost icon (icon like magnifying glass). 
+-> In the Adruino IDE, to debug program, you can add output statements. The output statements can be seen in Serial Monitor, which opens      upon clicking the top-rightmost icon (icon like magnifying glass). 
  
-> Serial.println("Hello World");
+>> Serial.println("Hello World");
+
+-> The current required for a 5V output with an 8 ohm load would be 625mA.
