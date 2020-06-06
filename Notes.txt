@@ -2,4 +2,4 @@
  
 >> Serial.println("Hello World");
 
--> The current required for a 5V output with an 8 ohm load would be 625mA.
+-> The current required for a 5V output with an 8 ohm load(8 ohm speaker) would be 625mA.
