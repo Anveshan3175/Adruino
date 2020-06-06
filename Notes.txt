@@ -1,0 +1,3 @@
+In the Adruino IDE, to debug program, you can add output statements. The output statements can be seen in Serial Monitor, which opens upon clicking the top-rightmost icon (icon like magnifying glass). 
+ 
+> Serial.println("Hello World");
